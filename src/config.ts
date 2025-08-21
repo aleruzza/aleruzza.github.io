@@ -35,6 +35,32 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
       skills: ["React", "Node.js", "AWS"],
     },
   ],
+  papers: [
+    {
+      name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
+      year: 2024,
+      description:
+        "A. Ruzza, G. Lodato, G. P. Rosotti; A&A, 685, A65 (2024)",
+      link: "https://doi.org/10.1051/0004-6361/202348421",
+      skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
+    },
+    {
+      name: "Planet-driven spirals in protoplanetary discs: Limitations of the semi-analytical theory for observations",
+      year: 2024,
+      description:
+        "D. Fasano, A. J. Winter, M. Benisty, G. Rosotti, A. Ruzza, G. Lodato, C. Toci, T. Hilder, A. Izquierdo, and D. Price; A&A, 687, A223 (2024)",
+      link: "https://doi.org/10.1051/0004-6361/202450087",
+      skills: ["Hydrodynamic simulations", "Planet-disk interaction"]
+    },
+    {
+      name: "DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs",
+      year: 2025,
+      description:
+        "A. Ruzza, G. Lodato, G. P. Rosotti, P. J. Armitage; A&A, 700, A190 (2025)",
+      link: "https://doi.org/10.1051/0004-6361/202554401",
+      skills: ["SBI", "Normalizing flows", "Hydrodynamic simulations", "Disks dust substructures"]
+    }
+  ],
   experience: [
     {
       company: "Tech Company",
