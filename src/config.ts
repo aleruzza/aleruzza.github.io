@@ -20,7 +20,7 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
       name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
       year: 2024,
       description:
-        "A. Ruzza, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024)",
+        "<> <strong>A. Ruzza</strong>, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024) </>",
       link: "https://doi.org/10.1051/0004-6361/202348421",
       skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
     },
@@ -51,56 +51,34 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Univeristà degli Studi di Milano (Italy)",
+      title: "Ph.D. Researcher",
+      dateRange: "Oct 2023 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Supervisors: Prof. Giuseppe Lodato and Prof. Giovanni Pietro Rosotti.",
+        "Project: 'Design of simulation-based-inference methods for the characterisation of young planets from dust morphologies and kinematical signatures in discs'",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "European Southern Observatory (ESO, Garching, Germany)",
+      title: "Summer research intern",
+      dateRange: "Jun 2023 - Aug 2023",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Fully funded six weeks research programme.",
+        "Project: Reflection Nebulae as signposts of young star interactions with molecular clouds. In this project I compiled a dataset of reflection nebulae close to YSO in the Corona Australis star-forming region. I then performed some analysis of this dataset and started developing an automatic way to look for reflection nebulae in other star forming regions."
       ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+    }
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Università degli Studi di Milano (Italy)",
+      degree: "Master’s degree in physics",
+      dateRange: "Oct 2021 - Jul 2023",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated 110/110 cum laude",
+        "Astrophysics and data physics curriculum. Focus on protoplanetary discs, data analysis and machine learning",
+        "Thesis: 'DBNets: a deep learning tool to characterize young planets in dusty discs'. Supervisors: Prof. Giuseppe Lodato, Prof. Giovanni Rosotti. This work led to one publication (Ruzza et al., 2024) and the tool developed was made public. It is a follow-up of my bachelor’s thesis with improved data, the addition of an uncertainty quantification method and the evaluation of how different factors contribute to the prediction error."
       ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    }
   ],
 };
