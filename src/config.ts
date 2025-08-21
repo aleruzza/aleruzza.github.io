@@ -1,16 +1,18 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Alessandro Ruzza",
+  title: "PhD Researcher @ UNIMI",
+  description: "",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "alessandro.ruzza@unimi.it",
+    linkedin: "https://www.linkedin.com/in/alessandro-ruzza-35145a157/",
+    github: "https://github.com/aleruzza",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "Ph.D researcher in astrophysics at the University of Milano, working on protoplanetary discs, planet formation and automatic methods \
+for the characterization of young planets. \
+I run numerical simulations of protoplanetary disc models, use and develop deep learning models for simulation-based \
+inference and apply the developed pipelines to actual observations. SITE UNDER CONSTRUCTION!",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
