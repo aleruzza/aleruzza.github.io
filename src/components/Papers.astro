@@ -74,7 +74,7 @@ const hasPapers = siteConfig.papers && siteConfig.papers.length > 0;
                         <p
                           class={`text-base sm:text-lg text-gray-600 leading-relaxed ${paper.link ? "pr-12 sm:pr-14 md:pr-16" : ""}`}
                         >
-                          {paper.description}
+                          set:html={paper.description}
                         </p>
 
                         {paper.skills && paper.skills.length > 0 && (

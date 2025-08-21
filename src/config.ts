@@ -20,7 +20,7 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
       name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
       year: 2024,
       description:
-        (<> <strong>A. Ruzza<strong/>, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024) </>),
+        "<strong>A. Ruzza<strong/>, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024)",
       link: "https://doi.org/10.1051/0004-6361/202348421",
       skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
     },
