@@ -17,37 +17,37 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
   ],
   papers: [
     {
-      name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
-      year: 2024,
-      description:
-        "<strong>A. Ruzza</strong>, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024)",
-      link: "https://doi.org/10.1051/0004-6361/202348421",
-      skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
-    },
-    {
-      name: "Planet-driven spirals in protoplanetary discs: Limitations of the semi-analytical theory for observations",
-      year: 2024,
-      description:
-        "D. Fasano, A. J. Winter, M. Benisty, G. Rosotti, A. Ruzza, G. Lodato, C. Toci, T. Hilder, A. Izquierdo, and D. Price; A&A, 687, A223 (2024)",
-      link: "https://doi.org/10.1051/0004-6361/202450087",
-      skills: ["Hydrodynamic simulations", "Planet-disk interaction"]
-    },
-    {
       name: "DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs",
-      year: 2025,
+      year: "Aug 2025",
       description:
         "<strong>A. Ruzza</strong>, G. Lodato, G. P. Rosotti, and P. J. Armitage; A&A, 700, A190 (2025)",
       link: "https://doi.org/10.1051/0004-6361/202554401",
       skills: ["SBI", "Normalizing flows", "Hydrodynamic simulations", "Disks dust substructures"]
     },
     {
-      name: "Unveiling a protoplanet candidate embedded in the HD 135344B disk with VLT/ERIS",
-      year: 2025,
+      name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
+      year: "May 2024",
       description:
-        "F. Maio, D. Fedele, V. Roccatagliata, S. Facchini, G. Lodato, S. Desidera, A. Garufi, D. Mesa, A. Ruzza, C. Toci, L. Testi, A. Zurlo, and G. P. Rosotti; A&A, 699, L10 (2025)",
+        "<strong>A. Ruzza</strong>, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024)",
+      link: "https://doi.org/10.1051/0004-6361/202348421",
+      skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
+    },
+    {
+      name: "Unveiling a protoplanet candidate embedded in the HD 135344B disk with VLT/ERIS",
+      year: "Jul 2025",
+      description:
+        "F. Maio, D. Fedele, V. Roccatagliata, S. Facchini, G. Lodato, S. Desidera, A. Garufi, D. Mesa, <strong>A. Ruzza</strong>, C. Toci, L. Testi, A. Zurlo, and G. P. Rosotti; A&A, 699, L10 (2025)",
       link: "https://doi.org/10.1051/0004-6361/202554401",
       skills: ["DBNets2.0", "Disks dust substructures"]
-    }
+    },
+    {
+      name: "Planet-driven spirals in protoplanetary discs: Limitations of the semi-analytical theory for observations",
+      year: "Jul 2024",
+      description:
+        "D. Fasano, A. J. Winter, M. Benisty, G. Rosotti, <strong>A. Ruzza</strong>, G. Lodato, C. Toci, T. Hilder, A. Izquierdo, and D. Price; A&A, 687, A223 (2024)",
+      link: "https://doi.org/10.1051/0004-6361/202450087",
+      skills: ["Hydrodynamic simulations", "Planet-disk interaction"]
+    }    
   ],
   experience: [
     {
