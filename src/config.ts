@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Alessandro Ruzza",
   title: "PhD Researcher @ UNIMI",
-  description: "",
+  description: "-",
   accentColor: "#1d4ed8",
   social: {
     email: "alessandro.ruzza@unimi.it",
@@ -9,9 +9,7 @@ export const siteConfig = {
     github: "https://github.com/aleruzza",
   },
   aboutMe:
-    "Ph.D researcher in astrophysics at the University of Milano, working on protoplanetary discs, planet formation and automatic methods \
-for the characterization of young planets. \
-I run numerical simulations of protoplanetary disc models, use and develop deep learning models for simulation-based \
+    "Ph.D researcher in astrophysics at the University of Milano, working on protoplanetary discs, planet formation and automatic methods for the characterization of young planets. I run numerical simulations of protoplanetary disc models, use and develop deep learning models for simulation-based \
 inference and apply the developed pipelines to actual observations. SITE UNDER CONSTRUCTION!",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
