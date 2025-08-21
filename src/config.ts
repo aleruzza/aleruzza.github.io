@@ -36,7 +36,7 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
       name: "DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs",
       year: 2025,
       description:
-        "A. Ruzza, G. Lodato, G. P. Rosotti, and P. J. Armitage; A&A, 700, A190 (2025)",
+        "<bf>A. Ruzza</bf>, G. Lodato, G. P. Rosotti, and P. J. Armitage; A&A, 700, A190 (2025)",
       link: "https://doi.org/10.1051/0004-6361/202554401",
       skills: ["SBI", "Normalizing flows", "Hydrodynamic simulations", "Disks dust substructures"]
     },
