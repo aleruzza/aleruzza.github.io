@@ -13,34 +13,14 @@ export const siteConfig = {
 inference (SBI) and apply the developed pipelines to actual observations. SITE UNDER CONSTRUCTION!",
   skills: ["SBI", "AI/ML", "Numerical modelling","Protoplanetary disks", "Planet-disk interaction"],
   projects: [
-    {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+    
   ],
   papers: [
     {
       name: "DBNets: A publicly available deep learning tool to measure the masses of young planets in dusty protoplanetary discs",
       year: 2024,
       description:
-        "A. Ruzza, G. Lodato, G. P. Rosotti; A&A, 685, A65 (2024)",
+        "A. Ruzza, G. Lodato, and G. P. Rosotti; A&A, 685, A65 (2024)",
       link: "https://doi.org/10.1051/0004-6361/202348421",
       skills: ["SBI", "CNN", "Hydrodynamic simulations", "Disks dust substructures"]
     },
@@ -56,9 +36,17 @@ inference (SBI) and apply the developed pipelines to actual observations. SITE U
       name: "DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs",
       year: 2025,
       description:
-        "A. Ruzza, G. Lodato, G. P. Rosotti, P. J. Armitage; A&A, 700, A190 (2025)",
+        "A. Ruzza, G. Lodato, G. P. Rosotti, and P. J. Armitage; A&A, 700, A190 (2025)",
       link: "https://doi.org/10.1051/0004-6361/202554401",
       skills: ["SBI", "Normalizing flows", "Hydrodynamic simulations", "Disks dust substructures"]
+    },
+    {
+      name: "Unveiling a protoplanet candidate embedded in the HD 135344B disk with VLT/ERIS",
+      year: 2025,
+      description:
+        "F. Maio, D. Fedele, V. Roccatagliata, S. Facchini, G. Lodato, S. Desidera, A. Garufi, D. Mesa, A. Ruzza, C. Toci, L. Testi, A. Zurlo, and G. P. Rosotti; A&A, 699, L10 (2025)",
+      link: "https://doi.org/10.1051/0004-6361/202554401",
+      skills: ["DBNets2.0", "Disks dust substructures"]
     }
   ],
   experience: [
