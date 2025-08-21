@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Ph.D researcher in astrophysics at the University of Milano, working on protoplanetary discs, planet formation and automatic methods for the characterization of young planets. I run numerical simulations of protoplanetary disc models, use and develop deep learning models for simulation-based \
-inference (SBI) and apply the developed pipelines to actual observations. SITE UNDER CONSTRUCTION!",
+inference (SBI) and apply the developed pipelines to actual observations.",
   skills: ["SBI", "AI/ML", "Numerical modelling","Protoplanetary disks", "Planet-disk interaction"],
   projects: [
     
