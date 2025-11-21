@@ -17,6 +17,14 @@ inference (SBI) and apply the developed pipelines to actual observations.",
   ],
   papers: [
     {
+      name: "exoALMA XXII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets 2.0",
+      year: "exp. 2026",
+      description:
+        "<strong>A. Ruzza</strong>, G. Lodato, G. P. Rosotti, P. J. Armitage, S. Facchini, S. M. Andrews, J. Bae, M. Barraza-Alfaro, M. Benisty, P. Curone, A. F. Izquierdo, C. Longarini, C. Pinte, J. Stadler, R. Teague, J. Terry, D. J. Wilner, A. J. Winter, T. C. Yoshida, B. Zawadzki; Submitted to ApJL for the exoALMA focus issue.",
+      link: "",
+      skills: ["SBI Application", "Disks dust substructures"]
+    },
+    {
       name: "DBNets2.0: Simulation-based inference for planet-induced dust substructures in protoplanetary discs",
       year: "Aug 2025",
       description:
@@ -51,12 +59,12 @@ inference (SBI) and apply the developed pipelines to actual observations.",
   ],
   experience: [
     {
-      company: "Univeristà degli Studi di Milano (Italy)",
+      company: "Università degli Studi di Milano (Italy)",
       title: "Ph.D. Researcher",
       dateRange: "Oct 2023 - Present",
       bullets: [
         "Supervisors: Prof. Giuseppe Lodato and Prof. Giovanni Pietro Rosotti.",
-        "Project: 'Design of simulation-based-inference methods for the characterisation of young planets from dust morphologies and kinematical signatures in discs'",
+        "Project: 'Design of simulation-based inference methods for the characterisation of young planets from dust morphologies and kinematical signatures in discs'",
       ],
     },
     {
@@ -64,8 +72,8 @@ inference (SBI) and apply the developed pipelines to actual observations.",
       title: "Summer research intern",
       dateRange: "Jun 2023 - Aug 2023",
       bullets: [
-        "Fully funded six weeks research programme.",
-        "Project: Reflection Nebulae as signposts of young star interactions with molecular clouds. In this project I compiled a dataset of reflection nebulae close to YSO in the Corona Australis star-forming region. I then performed some analysis of this dataset and started developing an automatic way to look for reflection nebulae in other star forming regions."
+        "Fully funded six-week research programme.",
+        "Project: Reflection Nebulae as signposts of young star interactions with molecular clouds. In this project, I compiled a dataset of reflection nebulae close to YSO in the Corona Australis star-forming region. I then performed some analysis of this dataset and started developing an automatic way to look for reflection nebulae in other star forming regions."
       ],
     }
   ],
